@@ -1,0 +1,102 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    /* background-image: url(./backgimages.jpeg); */
+            /* background-position: ; */
+}
+body>main{
+    display: flex;
+    justify-content: center;
+}
+body>main>form{
+    border: 1px solid rgb(159, 153, 153); 
+    margin-top: 20px;
+    border-radius: 5px; 
+     width: 70%; 
+     padding: 30px; 
+
+}
+#first{
+    color: orange;
+    text-align: center;
+}
+img{
+    height: 80px;
+    width: 90px;
+    padding-left: 190px;
+
+}
+h1{
+   font-style: italic;
+   text-align: center;
+   font-weight: bolder;
+   color: rgb(126, 169, 234);
+}
+p{
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(126, 169, 234);
+
+}
+#mail{
+    display: block;
+   width: 100%;
+   height: 50px;
+   padding: 5px;
+   padding-left: 10px;
+   margin-top: 10px;
+   margin-bottom: 15px;
+   border-radius: 10px;
+   border-color: rgb(126, 169, 234);}
+#psw{
+   
+    width: 100%;
+    height: 50px;
+    padding: 5px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    border-color: rgb(126, 169, 234);
+}
+#rem{
+    display: inline;
+    font-weight: bolder;
+   color: darkslateblue;
+  
+   margin-bottom: 30px;
+
+}
+#labelchek{
+    color: darkslateblue;
+    padding-right: 80px;
+    padding-bottom: 20px;
+}
+#fpsw{
+    padding-right: 20px;
+    
+    
+}
+#button{
+    display: block;
+    color: darkslateblue;
+    background-color: orange;
+    width: 100%;
+    height: 60px;
+    font-size: larger;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+h3{
+    display: inline;
+    padding-right: 20px;
+    font-weight: lighter;
+    
+}
+#sign{
+    font-size: larger;
+
+}
